@@ -329,6 +329,12 @@
                  "height":64,
                  "id":25,
                  "name":"to-conference",
+                 "properties":[
+                        {
+                         "name":"exitURL",
+                         "type":"string",
+                         "value":"conference.tmj#from-offices"
+                        }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
